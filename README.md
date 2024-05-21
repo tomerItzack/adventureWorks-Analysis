@@ -11,14 +11,18 @@ It sells its products through online stores and physical retail stores.
 1.Is there seasonality in the revenues
 2.Is there an upward or downward trend in the company's revenu over the months and years
 
-1. first qustion
+
+
+
+1. first qustion-Is there seasonality in the revenues
 
 In this question, we seek to examine the seasonality of the months for each year in the context of revenue data. From the data we received, it is difficult to identify clear seasonality because there is missing information for the years 2011 and 2014.
 
 Therefore, when examining the issue of seasonality, we will consider the data for the years 2012 and 2013.
 ![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/06fa8b25-1253-40c2-b999-0a00bc400cd9)
 ![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/75ef6cb9-b05e-4194-b960-3c20f6973710)
-![Uploading image.png…]()
+![Screenshot 2024-05-21 222254](https://github.com/tomerItzack/adventureWorks/assets/117035943/65f883cd-fb2a-4fad-8a67-516f6cd95c2d)
+
 
 
 
@@ -30,10 +34,74 @@ Conclusions:
 Recommendations:
 
 1.Additional examination of the company's revenue and profitability according to months towards the end of the current year (2014) is warranted.
-
 2.We should explore how to increase profitability in months where we identified a specific seasonal trend associated with low profitability or even losses (June 2012, June 2013).
-
 3.It is imperative to delve deeply into the factors contributing to the negative growth in revenue in the last quarters of the represented years (2012, 2013).
+
+
+
+
+2.second question-Is there seasonality in the revenues
+
+![Screenshot 2024-05-21 222254](https://github.com/tomerItzack/adventureWorks/assets/117035943/65f883cd-fb2a-4fad-8a67-516f6cd95c2d)
+![Screenshot 2024-05-21 222446](https://github.com/tomerItzack/adventureWorks/assets/117035943/7a9ec5a9-723f-4ec4-b78c-547d8e53568b)
+
+
+
+Conclusions:
+1.According to the data, there appears to be instability in the company's growth over time. The percentage changes in sales from quarter to quarter show significant volatility, with some quarters experiencing high growth, while others see a decline in growth rates, and even quarters with negative growth.
+2.Despite the volatility in growth (QoQ), there is an overall upward trend in revenues over the years. Total revenues have increased from relatively low levels in 2011 to higher levels in 2013 and 2014.
+3.There is no correlation between the upward trend in revenues and profitability. While there is a consistent increase in revenues over the years, profitability remains relatively marginal.
+4.A sharp decline in April 2012 data: there are notably low revenues and exceptionally negative profitability in April, followed by a rapid recovery in the subsequent month.
+5.The beginning of an upward trend in the company's profitability can be identified starting in the second half of 2013.
+
+Recommendations:
+1. Examination of revenue and profitability trends over a longer period.
+2. Investigate the factors contributing to the volatility in quarterly revenue growth (e.g., seasonal factors like winter, discounts, extraordinary events, etc.).
+3. Determine the cause of the sharp decline in revenues and profitability in April 2012.
+4. Analyze the factors affecting the relatively low profit margins and examine the possible reasons for the beginning of the upward trend starting in July 2013.
+
+
+
+3.third question-Examination of profitability and revenue in online stores versus physical stores worldwide.
+
+
+In this study, i investigated the company's profitability. i compared the profitability of sales in physical stores versus online stores in each country.
+
+![Screenshot 2024-05-21 223229](https://github.com/tomerItzack/adventureWorks/assets/117035943/56217577-8828-49c0-830a-cccf31c72117)
+![Screenshot 2024-05-21 223222](https://github.com/tomerItzack/adventureWorks/assets/117035943/6b05302b-ae71-4870-9b0c-6c45b2a7cb36)
+
+Conclusions:
+1. Online Stores Are More Profitable Than Physical Stores**:
+    - In all countries examined, online stores showed positive profitability, while physical stores lost money.
+    - It appears that the online business model generates better financial results for the company.
+
+2. **Highest Profits from Online Stores**:
+    - Online stores in Australia and the Southwestern United States generated the highest profits among all countries.
+
+3. **Notable Losses in Physical Stores**:
+    - The losses in physical stores are particularly significant in Canada and the Southwestern United States.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
