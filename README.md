@@ -20,7 +20,7 @@ It sells its products through online stores and physical retail stores.
 In this question, we seek to examine the seasonality of the months for each year in the context of revenue data. From the data we received, it is difficult to identify clear seasonality because there is missing information for the years 2011 and 2014.
 
 Therefore, when examining the issue of seasonality, we will consider the data for the years 2012 and 2013.
-![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/06fa8b25-1253-40c2-b999-0a00bc400cd9)
+![Screenshot 2024-05-21 224507](https://github.com/tomerItzack/adventureWorks-Analysis/assets/117035943/cb972acd-7905-49bc-bc61-4cb5d6c062b6)
 ![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/75ef6cb9-b05e-4194-b960-3c20f6973710)
 ![Screenshot 2024-05-21 224324](https://github.com/tomerItzack/adventureWorks-Analysis/assets/117035943/08f0e2ee-7d3f-45e1-adc3-ab6803be0f19)
 
