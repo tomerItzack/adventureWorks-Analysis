@@ -22,7 +22,8 @@ In this question, we seek to examine the seasonality of the months for each year
 Therefore, when examining the issue of seasonality, we will consider the data for the years 2012 and 2013.
 ![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/06fa8b25-1253-40c2-b999-0a00bc400cd9)
 ![image](https://github.com/tomerItzack/adventureWorks/assets/117035943/75ef6cb9-b05e-4194-b960-3c20f6973710)
-![Screenshot 2024-05-21 222254](https://github.com/tomerItzack/adventureWorks/assets/117035943/65f883cd-fb2a-4fad-8a67-516f6cd95c2d)
+![Screenshot 2024-05-21 224324](https://github.com/tomerItzack/adventureWorks-Analysis/assets/117035943/08f0e2ee-7d3f-45e1-adc3-ab6803be0f19)
+
 
 
 
@@ -45,7 +46,8 @@ Therefore, when examining the issue of seasonality, we will consider the data fo
 
 **2.second question-Is there seasonality in the revenues**
 
-![Screenshot 2024-05-21 222254](https://github.com/tomerItzack/adventureWorks/assets/117035943/65f883cd-fb2a-4fad-8a67-516f6cd95c2d)
+![Screenshot 2024-05-21 224324](https://github.com/tomerItzack/adventureWorks-Analysis/assets/117035943/c14afa1a-49cb-4361-8202-fd8e74e712c7)
+
 ![Screenshot 2024-05-21 222446](https://github.com/tomerItzack/adventureWorks/assets/117035943/7a9ec5a9-723f-4ec4-b78c-547d8e53568b)
 
 
