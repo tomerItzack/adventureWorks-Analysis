@@ -9,6 +9,7 @@ It sells its products through online stores and physical retail stores.
 
 
 **3 analysis questions:**
+
 **1.** Is there seasonality in the revenues
 
 **2.** Is there an upward or downward trend in the company's revenu over the months and years
@@ -30,11 +31,13 @@ Therefore, when examining the issue of seasonality, we will consider the data fo
 
 
 **Conclusions:**
+
 **1.** Observing that the month of June (the month with the highest revenue) is not the most profitable month. Moreover, in general, the months with the highest revenue are not necessarily the most profitable, and sometimes even result in losses. (June 2012)
 
 **2.** It can be observed that November is the most profitable month in the years 2011 and 2013. However, since 2011 is the year of the company's establishment and has incomplete data, even in this case, we cannot pinpoint clear seasonality in profitability.
 
 **3.** we can notice a recurring negative trend in the fourth quarter of each year (2012 Q4, 2013 Q4), which may indicate sales difficulties towards the end of the year/winter seasons.
+
 
 **Recommendations:**
 
@@ -56,6 +59,7 @@ Therefore, when examining the issue of seasonality, we will consider the data fo
 
 
 **Conclusions:**
+
 **1.** According to the data, there appears to be instability in the company's growth over time. The percentage changes in sales from quarter to quarter show significant volatility, with some quarters experiencing high growth, while others see a decline in growth rates, and even quarters with negative growth.
 
 **2.** Despite the volatility in growth (QoQ), there is an overall upward trend in revenues over the years. Total revenues have increased from relatively low levels in 2011 to higher levels in 2013 and 2014.
@@ -69,6 +73,7 @@ Therefore, when examining the issue of seasonality, we will consider the data fo
 
 
 **Recommendations:**
+
 **1.** Examination of revenue and profitability trends over a longer period.
 
 **2.** Investigate the factors contributing to the volatility in quarterly revenue growth (e.g., seasonal factors like winter, discounts, extraordinary events, etc.).
@@ -88,6 +93,7 @@ In this study, i investigated the company's profitability. i compared the profit
 ![Screenshot 2024-05-21 223222](https://github.com/tomerItzack/adventureWorks/assets/117035943/6b05302b-ae71-4870-9b0c-6c45b2a7cb36)
 
 **Conclusions:**
+
 **1.** **Online Stores Are More Profitable Than Physical Stores**:
     - In all countries examined, online stores showed positive profitability, while physical stores lost money.
     - It appears that the online business model generates better financial results for the company.
@@ -101,6 +107,7 @@ In this study, i investigated the company's profitability. i compared the profit
 
 
 **Recommendations:**
+
 **1.** **Further Analysis of Loss Factors in Physical Stores**:
 
 We need to examine the consistent losses in physical stores across all countries by investigating factors such as:
@@ -130,6 +137,7 @@ By increasing investment in online platforms and improving the user experience, 
 
 
 **thanks for watching**
+
 if you have any questions,you can contact me
 
 **Tomer.itzack@gmail.com**
