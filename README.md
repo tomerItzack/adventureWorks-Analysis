@@ -121,8 +121,9 @@ By increasing investment in online platforms and improving the user experience, 
 
 
 
-**thank for watching**
+**thanks for watching**
 if you have any questions,you can contact me
+
 **Tomer.itzack@gmail.com**
 
 
