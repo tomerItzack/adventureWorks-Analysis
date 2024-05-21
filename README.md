@@ -15,7 +15,7 @@ It sells its products through online stores and physical retail stores.
 
 
 
-**1. first qustion-Is there seasonality in the revenues**
+**1. first question-Is there seasonality in the revenues**
 
 In this question, we seek to examine the seasonality of the months for each year in the context of revenue data. From the data we received, it is difficult to identify clear seasonality because there is missing information for the years 2011 and 2014.
 
