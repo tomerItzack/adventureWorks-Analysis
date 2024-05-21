@@ -1,4 +1,5 @@
-**ADVENTUREWORKS**
+**ADVENTUREWORKS Analysis**
+
 **Business Background:**
 
 AdventureWorks is a leading company for the production and marketing of bicycles and related accessories, providing products to many customers around the world.
@@ -8,9 +9,9 @@ It sells its products through online stores and physical retail stores.
 
 
 **3 analysis questions:**
-1.Is there seasonality in the revenues
+**1.** Is there seasonality in the revenues
 
-2.Is there an upward or downward trend in the company's revenu over the months and years
+**2.** Is there an upward or downward trend in the company's revenu over the months and years
 
 
 
