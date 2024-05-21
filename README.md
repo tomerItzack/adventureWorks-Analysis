@@ -23,8 +23,24 @@ Therefore, when examining the issue of seasonality, we will consider the data fo
 
 
 Conclusions:
-1."Observing that the month of June (the month with the highest revenue) is not the most profitable month. Moreover, in general, the months with the highest revenue are not necessarily the most profitable, and sometimes even result in losses. (June 2012)"
-2."It can be observed that November is the most profitable month in the years 2011 and 2013. However, since 2011 is the year of the company's establishment and has incomplete data, even in this case, we cannot pinpoint clear seasonality in profitability."
+1.Observing that the month of June (the month with the highest revenue) is not the most profitable month. Moreover, in general, the months with the highest revenue are not necessarily the most profitable, and sometimes even result in losses. (June 2012)
+2.It can be observed that November is the most profitable month in the years 2011 and 2013. However, since 2011 is the year of the company's establishment and has incomplete data, even in this case, we cannot pinpoint clear seasonality in profitability.
+2.we can notice a recurring negative trend in the fourth quarter of each year (2012 Q4, 2013 Q4), which may indicate sales difficulties towards the end of the year/winter seasons.
+
+Recommendations:
+
+1.Additional examination of the company's revenue and profitability according to months towards the end of the current year (2014) is warranted.
+
+2.We should explore how to increase profitability in months where we identified a specific seasonal trend associated with low profitability or even losses (June 2012, June 2013).
+
+3.It is imperative to delve deeply into the factors contributing to the negative growth in revenue in the last quarters of the represented years (2012, 2013).
+
+
+
+
+
+
+
 
 
 
